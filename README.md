@@ -10,3 +10,5 @@
 9. Faça um _Pull request_ para o projeto original. 
 
 # teste conflito
+
+isso foi proposital
