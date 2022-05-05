@@ -8,3 +8,5 @@
     7. Dentro do arquivo criado explique sobre algumas **ferramentas Kanban** (2 a 3 ferramentas).
 8. Faça o versionamento dos arquivos para o seu projeto.
 9. Faça um _Pull request_ para o projeto original. 
+
+# teste conflito
